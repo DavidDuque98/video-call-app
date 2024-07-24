@@ -1,6 +1,6 @@
 {
-  "name": "video-call-app",
-  "version": "1.0.0",
+  "name": "my-video-call-app",
+  "version": "0.1.0",
   "private": true,
   "homepage": "https://DavidDuque98.github.io/video-call-app",
   "scripts": {
